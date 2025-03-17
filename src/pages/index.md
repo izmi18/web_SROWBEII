@@ -1,50 +1,56 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+
+image: /img/srowbeii.jpg
+heading: Tentang Kami
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
+  title: Selamat Datang di SROWBEII ✨
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+   Hai, selamat datang di ruang kreatif kami! 🌿 Di sini, setiap aksesoris dan merchandise dibuat dengan penuh cinta dan ketelitian. Kami percaya bahwa setiap detail kecil memiliki cerita, dan setiap karya yang kami buat adalah cerminan dari kreativitas serta passion dalam dunia handmade.Jelajahi koleksi unik kami—mulai dari gelang, kalung, gantungan kunci, hingga merchandise spesial yang semuanya dibuat secara eksklusif untuk Anda. 💖Terima kasih telah berkunjung! Jika ada yang ingin ditanyakan atau ingin custom order, jangan ragu untuk menghubungi kami. Selamat berbelanja dan temukan karya yang paling cocok untuk Anda!✨🌸 SROWBEII 🌸
+
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+   Di SROWBEII, kami percaya bahwa setiap orang berhak memiliki sesuatu yang istimewa. Oleh karena itu, kami menghadirkan berbagai koleksi mulai dari gelang, kalung, gantungan kunci, hingga merchandise eksklusif yang dibuat secara handmade dengan material berkualitas.Kami juga menerima custom order, sehingga Anda bisa memiliki produk yang benar-benar sesuai dengan kepribadian dan gaya Anda! 🎨💖Terima kasih telah mendukung karya handmade dan usaha kecil seperti kami. Setiap pembelian Anda sangat berarti dan menjadi semangat bagi kami untuk terus berkarya!✨  – Handmade with Love ✨
+subdescription: >-  
+    Di SROWBEII, kami percaya bahwa setiap orang berhak memiliki sesuatu yang istimewa. Oleh karena itu, kami menghadirkan berbagai koleksi mulai dari gelang, kalung, gantungan kunci, hingga merchandise eksklusif yang dibuat secara handmade dengan material berkualitas.Kami juga menerima custom order, sehingga Anda bisa memiliki produk yang benar-benar sesuai dengan kepribadian dan gaya Anda! 🎨💖Terima kasih telah mendukung karya handmade dan usaha kecil seperti kami. Setiap pembelian Anda sangat berarti dan menjadi semangat bagi kami untuk terus berkarya!✨  – Handmade with Love ✨
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/kalung.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Kalung Manik-Manik Pastel Butterfly 🦋🌸
+        Tampil lebih anggun dan manis dengan Kalung Manik-Manik Pastel Butterfly! Kalung ini dirangkai dengan kombinasi manik-manik warna pastel yang lembut, dihiasi dengan charm kupu-kupu dan bunga yang memberikan sentuhan dreamy dan elegan.
+
+        ✨ Kenapa Harus Punya?
+         ✔ Desain unik dengan perpaduan warna pastel yang lembut
+         ✔ Handmade dengan detail cantik dan penuh ketelitian
+         ✔ Cocok untuk mempermanis outfit sehari-hari atau hadiah spesial
+
+         Tunjukkan sisi feminin dan playful Anda dengan kalung yang satu ini! 💖
+
+
+    - image: /img/gelang.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Gelang Manik-Manik Butterfly Pink 🌸🦋
+        Manis dan feminin, Gelang Manik-Manik Butterfly Pink ini adalah aksesori yang sempurna untuk melengkapi tampilan Anda! Terbuat dari kombinasi manik-manik kaca, mutiara sintetis, dan charm kupu-kupu transparan yang memberi sentuhan dreamy dan elegan.💖 Keunggulan:
+        ✔ Desain estetik dengan nuansa pastel
+        ✔ Elastis dan nyaman dipakai
+        ✔ Cocok untuk hadiah spesial atau koleksi pribadi
+    - image: /img/gancii.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Gantungan kunci Rajut Bunga Daisy Handmade 🌼
+        Hadirkan nuansa alam dalam gaya Anda dengan Gantungan Kunci Rajut Bunga Daisy yang dibuat secara handmade! Kombinasi warna hijau, putih, dan kuning menciptakan tampilan yang elegan dan natural. Setiap helai benang dirajut dengan penuh ketelitian, menghasilkan aksesoris yang cantik dan unik.
+        🌿 Kenapa harus punya?
+        ✔ Handmade dengan detail sempurna
+        ✔ Ringan & nyaman dipakai sepanjang hari
+        ✔ Cocok untuk gaya kasual maupun formal
+    - image: /img/phonestrap.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Phone Strap Transparan Bunga Kristal ✨📱
+        Beri sentuhan elegan dan aesthetic pada ponsel Anda dengan Phone Strap Transparan Bunga Kristal! Dibuat dengan rangkaian bunga kristal bening yang memancarkan kesan mewah namun minimalis. Tidak hanya mempercantik, strap ini juga berfungsi sebagai pegangan anti-slip agar ponsel lebih aman di tangan.💎 Keunggulan:
+        ✔ Desain elegan dengan bunga kristal bening
+        ✔ Multifungsi: sebagai aksesoris & pegangan ponsel anti-slip
+        ✔ Cocok untuk semua jenis ponsel dan case
+        Tampil stylish dan fungsional dalam satu aksesori! 🌟
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
