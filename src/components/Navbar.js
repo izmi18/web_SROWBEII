@@ -66,7 +66,7 @@ const Navbar = () => {
           <li className="navbar-end has-text-centered">
             <a
               className="navbar-item"
-              href="https://wa.me/62895328073722?text=Haloo, saya tertarik dengan produk nya"
+              href="https://wa.me/62895328073722?text=Haloo, saya tertarik dengan produk nyaa kak"
               target="_blank"
               rel="noopener noreferrer"
             >
