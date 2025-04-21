@@ -1,34 +1,37 @@
 ---
 templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
+title: 'New Arrivals: Handmade Phonestrap & Beaded Bracelets You’ll Love'
+date: 2025-04-14T09:00:00.000Z
 featuredpost: true
+featuredimage: /img/amigu.jpg
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  Koleksi baru phonestrap dan gelang manik buatan tangan kini hadir di toko kami! 
+  Tampil lebih personal dan unik dengan sentuhan penuh cinta.
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - handmade
+  - accessories
+  - bracelet
+  - phonestrap
 ---
+![chemex](/img/amigu.jpg)
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+Kami dengan senang hati memperkenalkan koleksi terbaru kami: phonestrap lucu dan gelang manik yang dibuat secara handmade! Semua item ini dirangkai dengan detail dan cinta, pas untuk kamu yang ingin tampil beda dan penuh warna 🌈
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+## Cerita di Balik Koleksi
 
-## A little history
+Koleksi ini dibuat oleh tangan-tangan terampil di studio kecil kami. Setiap phonestrap dibuat dari bahan berkualitas dan warna yang bisa kamu pilih sesuai mood. Sementara gelang manik-nya... duh, susah dijelaskan. Harus kamu coba sendiri untuk merasakan vibe-nya!
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+> "Sebuah karya tidak hanya dibuat dengan tangan, tapi juga dengan jiwa." – Seniman di Srowbeii
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+Kami percaya, aksesori kecil bisa memberi kesan besar. Nggak cuma untuk gaya, tapi juga untuk ekspresi diri.
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+## Kenapa Kamu Harus Coba?
 
-## What you need to know before trying
+- 🌟 **Unik** – Nggak ada dua produk yang 100% sama
+- 💖 **Handmade** – Dibuat manual, bukan pabrik
+- 🎁 **Cocok untuk Hadiah** – Untuk diri sendiri atau orang tersayang
+- 🌱 **Support lokal artist** – Kamu ikut mendukung kreativitas lokal!
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+## Stok Terbatas!
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+Produk handmade kami dibuat dalam jumlah kecil untuk menjaga kualitas. Jadi, jangan sampai kehabisan ya. Cek langsung koleksinya dan pilih favoritmu sebelum sold out 💫.
