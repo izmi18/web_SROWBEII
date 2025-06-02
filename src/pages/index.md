@@ -10,9 +10,11 @@ mainpitch:
    Hai, selamat datang di ruang kreatif kami! 🌿 Di sini, setiap aksesoris dan merchandise dibuat dengan penuh cinta dan ketelitian. Kami percaya bahwa setiap detail kecil memiliki cerita, dan setiap karya yang kami buat adalah cerminan dari kreativitas serta passion dalam dunia handmade.Jelajahi koleksi unik kami—mulai dari gelang, kalung, gantungan kunci, hingga merchandise spesial yang semuanya dibuat secara eksklusif untuk Anda. 💖Terima kasih telah berkunjung! Jika ada yang ingin ditanyakan atau ingin custom order, jangan ragu untuk menghubungi kami. Selamat berbelanja dan temukan karya yang paling cocok untuk Anda!✨🌸 SROWBEII 🌸
 
 description: >-
-   Di SROWBEII, kami percaya bahwa setiap orang berhak memiliki sesuatu yang istimewa. Oleh karena itu, kami menghadirkan berbagai koleksi mulai dari gelang, kalung, gantungan kunci, hingga merchandise eksklusif yang dibuat secara handmade dengan material berkualitas.Kami juga menerima custom order, sehingga Anda bisa memiliki produk yang benar-benar sesuai dengan kepribadian dan gaya Anda! 🎨💖Terima kasih telah mendukung karya handmade dan usaha kecil seperti kami. Setiap pembelian Anda sangat berarti dan menjadi semangat bagi kami untuk terus berkarya!✨  – Handmade with Love ✨
+   Di SROWBEII, kami percaya bahwa setiap orang berhak memiliki sesuatu yang istimewa. 
+
 subdescription: >-  
-    Di SROWBEII, kami percaya bahwa setiap orang berhak memiliki sesuatu yang istimewa. Oleh karena itu, kami menghadirkan berbagai koleksi mulai dari gelang, kalung, gantungan kunci, hingga merchandise eksklusif yang dibuat secara handmade dengan material berkualitas.Kami juga menerima custom order, sehingga Anda bisa memiliki produk yang benar-benar sesuai dengan kepribadian dan gaya Anda! 🎨💖Terima kasih telah mendukung karya handmade dan usaha kecil seperti kami. Setiap pembelian Anda sangat berarti dan menjadi semangat bagi kami untuk terus berkarya!✨  – Handmade with Love ✨
+     Setiap pembelian Anda sangat berarti dan menjadi semangat bagi kami untuk terus berkarya!✨  – Handmade with Love ✨
+     
 intro:
   blurbs:
     - image: /img/kalung.png
