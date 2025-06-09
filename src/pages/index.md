@@ -2,7 +2,7 @@
 templateKey: index-page
 
 image: /img/srowbeii.jpg
-heading: Tentang Kami
+heading: Autentik. Personal. Bermakna.
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Selamat Datang di SROWBEII ✨
@@ -10,8 +10,8 @@ mainpitch:
    Hai, selamat datang di ruang kreatif kami! 🌿 Di sini, setiap aksesoris dan merchandise dibuat dengan penuh cinta dan ketelitian. Kami percaya bahwa setiap detail kecil memiliki cerita, dan setiap karya yang kami buat adalah cerminan dari kreativitas serta passion dalam dunia handmade.Jelajahi koleksi unik kami—mulai dari gelang, kalung, gantungan kunci, hingga merchandise spesial yang semuanya dibuat secara eksklusif untuk Anda. 💖Terima kasih telah berkunjung! Jika ada yang ingin ditanyakan atau ingin custom order, jangan ragu untuk menghubungi kami. Selamat berbelanja dan temukan karya yang paling cocok untuk Anda!✨🌸 SROWBEII 🌸
 
 description: >-
-   Di SROWBEII, kami percaya bahwa setiap orang berhak memiliki sesuatu yang istimewa. 
-
+    Srowbeii merupakan wadah bagi kerajinan tangan yang autentik, unik, dan berkualitas, yang dibuat dengan sepenuh hati dan ketelitian oleh pengrajinya.
+    Srowbeii percaya bahwa setiap karya memiliki cerita didalamnya, dan karena itulah srowbeii menawarkan produk handycraft unik yang tidak hanya indah di pandang, tapi juga bermakna. Di srowbeii anda tidak hanya bisa menemukan koleksi yang khas, tapi juga bisa dapat memesan desain custom sesuai keinginan anda.
 subdescription: >-  
      Setiap pembelian Anda sangat berarti dan menjadi semangat bagi kami untuk terus berkarya!✨  – Handmade with Love ✨
      

@@ -12,6 +12,10 @@ tags:
   - accessories
   - bracelet
   - phonestrap
+  - amigurami
+  - cengkareng
+  - handycraft
+  - jakarta
 ---
 ![chemex](/img/amigu.jpg)
 
