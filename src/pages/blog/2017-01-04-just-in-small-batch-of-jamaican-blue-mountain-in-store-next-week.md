@@ -1,5 +1,6 @@
 ---
 templateKey: 'blog-post'
+path:/blog
 title: 'New Arrivals: Handmade Phonestrap & Beaded Bracelets You’ll Love'
 date: 2025-04-14T09:00:00.000Z
 featuredpost: true
