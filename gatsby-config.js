@@ -3,7 +3,7 @@ module.exports = {
     title: "SROWBEII",
     description:"Srowbeii merupakan wadah bagi kerajinan tangan yang autentik, dan bisa custom sesuai keinginan anda. unik, personal dan dibuat dengan cinta oleh pengrajinnya.",
     author: "izmi",
-    keywords: "jakarta, cengkareng, souvenir, handmade, handycraft, terdekat, aksesoris, gelang, kalung, amigurami, beads, bagcharm, keychain, accessories, custom, gelang manik, diy, bracelet, phonestarp, jual"
+    keywords: "Srowbeii merupakan wadah bagi kerajinan tangan yang autentik, dan bisa custom sesuai keinginan anda. unik, personal dan dibuat dengan cinta oleh pengrajinnya, srowbeii menawarkan produk handycraft unik yang tidak hanya indah di pandang, tapi juga bermakna"
   },
   plugins: [
     "gatsby-plugin-react-helmet",
