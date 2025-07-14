@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "SROWBEII",
     description:"Srowbeii merupakan wadah bagi kerajinan tangan yang autentik, dan bisa custom sesuai keinginan anda. unik, personal dan dibuat dengan cinta oleh pengrajinnya.",
+    url: "https://craftbysrowbeii.web.id/",
     author: "izmi",
     keywords: "Srowbeii merupakan wadah bagi kerajinan tangan yang autentik, dan bisa custom sesuai keinginan anda. unik, personal dan dibuat dengan cinta oleh pengrajinnya, srowbeii menawarkan produk handycraft unik yang tidak hanya indah di pandang, tapi juga bermakna"
   },
