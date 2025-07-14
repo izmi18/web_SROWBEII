@@ -9,6 +9,15 @@ description: >-
   Koleksi baru phonestrap dan gelang manik buatan tangan kini hadir di toko kami! 
   Tampil lebih personal dan unik dengan sentuhan penuh cinta.
 tags:
+  - terdekat
+  - koleksi
+  - unik
+  - lokal
+  - produk
+  - souvenir
+  - gelang manik
+  - manik-manik
+  - beads
   - handmade
   - accessories
   - bracelet
