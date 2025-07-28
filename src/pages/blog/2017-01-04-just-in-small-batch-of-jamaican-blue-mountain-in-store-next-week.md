@@ -8,14 +8,15 @@ featuredimage: /img/phones.jpg
 description: >-
 Kerajinan tangan atau produk handmade adalah karya yang dibuat secara manual oleh pengrajin, bukan mesin pabrik. Cari tahu kenapa nilai dan pesonanya semakin digemari!
 tags:
-  - handmade
-  - kerajinan
+  - Pernah dengar istilah handmade
+  - Kerajinan tangan adalah 
   - kreatif
   - lokal
   - handycraft
   - kreativitas
   - unik
   - personal
+  - Kenapa Handmade Begitu Spesial?
 
 
 ---
@@ -25,7 +26,7 @@ Pernah dengar istilah handmade atau kerajinan tangan? Mungkin kamu sering lihat 
 
 ## Pengertian Kerajinan Tangan
 
-Kerajinan tangan adalah produk yang dibuat secara manual, tanpa bantuan mesin industri massal. Setiap item dikerjakan langsung oleh tangan pengrajin, menjadikannya unik dan berbeda satu sama lain. Prosesnya bisa melibatkan berbagai teknik seperti merajut, menjahit, memahat, mengecat, hingga menyusun manik-manik.endiri untuk merasakan vibe-nya!
+Kerajinan tangan adalah produk yang dibuat secara manual, tanpa bantuan mesin industri massal. Setiap item dikerjakan langsung oleh tangan pengrajin, menjadikannya unik dan berbeda satu sama lain. Prosesnya bisa melibatkan berbagai teknik seperti merajut, menjahit, memahat, mengecat, hingga menyusun manik-manik.sendiri untuk merasakan vibe-nya!
 
 ## Kenapa Handmade Begitu Spesial?
 Berbeda dengan produk pabrikan yang serba identik, kerajinan tangan punya nilai lebih karena:
