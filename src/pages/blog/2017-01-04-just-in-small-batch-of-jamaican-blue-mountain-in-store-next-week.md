@@ -6,7 +6,7 @@ date: 2025-07-14T09:00:00.000Z
 featuredpost: false
 featuredimage: /img/phones.jpg
 description: >-
-Kerajinan tangan atau produk handmade adalah karya yang dibuat secara manual oleh pengrajin, bukan mesin pabrik. Cari tahu kenapa nilai dan pesonanya semakin digemari!
+  Kerajinan tangan atau produk handmade adalah karya yang dibuat secara manual oleh pengrajin, bukan mesin pabrik. Cari tahu kenapa nilai dan pesonanya semakin digemari!
 tags:
   - Pernah dengar istilah handmade
   - Kerajinan tangan adalah 
@@ -17,8 +17,6 @@ tags:
   - unik
   - personal
   - Kenapa Handmade Begitu Spesial?
-
-
 ---
 ![chemex](/img/amigu.jpg)
 
