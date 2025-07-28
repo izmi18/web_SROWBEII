@@ -40,9 +40,9 @@ export const IndexPageTemplate = ({
                   </div>
                   <div className="columns">
                     <div className="column is-12">
-                      <h3 className="has-text-weight-semibold is-size-2">
+                      <h2 className="has-text-weight-semibold is-size-2">
                         {heading}
-                      </h3>
+                      </h2>
                       <p>{description}</p>
                       <p>{subdescription}</p>
                     </div>
@@ -57,9 +57,9 @@ export const IndexPageTemplate = ({
                     </div>
                   </div>
                   <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
+                    <h2 className="has-text-weight-semibold is-size-2">
                       Latest stories
-                    </h3>
+                    </h2>
                     <BlogRoll />
                     <div className="column is-12 has-text-centered">
                       <Link className="btn" to="/blog">
