@@ -1,42 +1,46 @@
 ---
 templateKey: 'blog-post'
-path: /blog
-title: 'New Arrivals: Handmade Phonestrap & Beaded Bracelets You’ll Love'
-date: 2025-04-14T09:00:00.000Z
-featuredpost: true
-featuredimage: /img/amigu.jpg
+path: /blog/apa-itu-kerajinan-tangan
+title: 'Apa Itu Kerajinan Tangan (Handmade) dan Kenapa Semakin Populer?'
+date: 2025-07-14T09:00:00.000Z
+featuredpost: false
+featuredimage: /img/phones.jpg
 description: >-
-  Koleksi baru phonestrap dan gelang manik buatan tangan kini hadir di toko kami! 
-  Tampil lebih personal dan unik dengan sentuhan penuh cinta.
+Kerajinan tangan atau produk handmade adalah karya yang dibuat secara manual oleh pengrajin, bukan mesin pabrik. Cari tahu kenapa nilai dan pesonanya semakin digemari!
 tags:
   - handmade
-  - accessories
-  - bracelet
-  - phonestrap
-  - amigurami
-  - cengkareng
+  - kerajinan
+  - kreatif
+  - lokal
   - handycraft
-  - jakarta
+  - kreativitas
+  - unik
+  - personal
+
+
 ---
 ![chemex](/img/amigu.jpg)
 
-Kami dengan senang hati memperkenalkan koleksi terbaru kami: phonestrap lucu dan gelang manik yang dibuat secara handmade! Semua item ini dirangkai dengan detail dan cinta, pas untuk kamu yang ingin tampil beda dan penuh warna 🌈
+Pernah dengar istilah handmade atau kerajinan tangan? Mungkin kamu sering lihat produk-produk unik seperti gelang manik, tas rajut, atau dekorasi rumah yang punya gaya khas dan sentuhan personal. Tapi sebenarnya, apa sih yang dimaksud dengan kerajinan tangan?
 
-## Cerita di Balik Koleksi
+## Pengertian Kerajinan Tangan
 
-Koleksi ini dibuat oleh tangan-tangan terampil di studio kecil kami. Setiap phonestrap dibuat dari bahan berkualitas dan warna yang bisa kamu pilih sesuai mood. Sementara gelang manik-nya... duh, susah dijelaskan. Harus kamu coba sendiri untuk merasakan vibe-nya!
+Kerajinan tangan adalah produk yang dibuat secara manual, tanpa bantuan mesin industri massal. Setiap item dikerjakan langsung oleh tangan pengrajin, menjadikannya unik dan berbeda satu sama lain. Prosesnya bisa melibatkan berbagai teknik seperti merajut, menjahit, memahat, mengecat, hingga menyusun manik-manik.endiri untuk merasakan vibe-nya!
 
-> "Sebuah karya tidak hanya dibuat dengan tangan, tapi juga dengan jiwa." – Seniman di Srowbeii
+## Kenapa Handmade Begitu Spesial?
+Berbeda dengan produk pabrikan yang serba identik, kerajinan tangan punya nilai lebih karena:
 
-Kami percaya, aksesori kecil bisa memberi kesan besar. Nggak cuma untuk gaya, tapi juga untuk ekspresi diri.
+- **Keunikan Tinggi** – Nggak ada dua produk yang benar-benar sama
+- **Kualitas Terjaga** – Karena dibuat satu per satu dengan penuh perhatian
+- **Emosi dan Cerita** – Setiap karya punya latar belakang dan sentuhan jiwa sang pembuat
+- **Ramah Lingkungan** – Banyak pengrajin menggunakan bahan daur ulang atau alami
+- **Dukung Kreativitas Lokal** – Membeli handmade berarti mendukung seniman dan UMKM di sekitarmu
 
-## Kenapa Kamu Harus Coba?
+## Contoh Produk Handmade
+Beberapa contoh populer dari kerajinan tangan antara lain:
 
-- 🌟 **Unik** – Nggak ada dua produk yang 100% sama
-- 💖 **Handmade** – Dibuat manual, bukan pabrik
-- 🎁 **Cocok untuk Hadiah** – Untuk diri sendiri atau orang tersayang
-- 🌱 **Support lokal artist** – Kamu ikut mendukung kreativitas lokal!
-
-## Stok Terbatas!
-
-Produk handmade kami dibuat dalam jumlah kecil untuk menjaga kualitas. Jadi, jangan sampai kehabisan ya. Cek langsung koleksinya dan pilih favoritmu sebelum sold out 💫.
+- Phonestrap atau gantungan HP yang dirangkai dari manik
+- Gelang rajut atau sulam khas daerah
+- Tote bag lukis tangan
+- Lilin aromaterapi handmade
+- Miniatur amigurami lucu
